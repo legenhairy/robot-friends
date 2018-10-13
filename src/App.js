@@ -50,10 +50,10 @@ class App extends Component {
 		  </div>	
 		);    
 		
-	  }
-	
 	}
-
+	
 }
+
+
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
